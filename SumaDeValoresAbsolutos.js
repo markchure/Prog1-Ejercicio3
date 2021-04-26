@@ -1,3 +1,4 @@
+//Ingresar 3 datos y mostrar la suma de sus valores absolutos. Ej. si se lee -1, 5,-30 mostrar: 36
 var num1 = parseInt(prompt("Ingrese el primer valor"));
 var num2 = parseInt(prompt("Ingrese el segundo valor"));
 var num3 = parseInt(prompt("Ingrese el tercer valor"));
